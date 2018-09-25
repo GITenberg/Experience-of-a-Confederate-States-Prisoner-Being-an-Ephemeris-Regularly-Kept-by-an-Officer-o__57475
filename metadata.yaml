@@ -1,11 +1,16 @@
 _repo: Experience-of-a-Confederate-States-Prisoner-Being-an-Ephemeris-Regularly-Kept-by-an-Officer-o__57475
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57475-h/images/cover.jpg
 creator:
   author:
     agent_name: West, Beckwith
     gutenberg_agent_id: '49404'
     url: http://www.gutenberg.org/2009/agents/49404
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57475#Experience-of-a-Confederate-States-Prisoner-Being-an-Ephemeris-Regularly-Kept-by-an-Officer-o_
 gutenberg_issued: '2018-07-09'
 gutenberg_type: Text
 identifiers:
